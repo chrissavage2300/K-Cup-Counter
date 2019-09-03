@@ -35,4 +35,6 @@ on top of a 5 gallon home depot bucket.
 * Outputs
 	* SCL (I2C)
 	* SDA (I2C)
-	
+## Notes
+* Use TimerX for debouncing
+	* 
