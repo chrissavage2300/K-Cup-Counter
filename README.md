@@ -23,13 +23,15 @@ on top of a 5 gallon home depot bucket.
 * Display: SSD1306 (I2C)
 
 ## I/O List
-* Inputs
-	* Reset Pushbutton
+* Digital Inputs
+	* Reset Pushbutton 
 	* Low Battery Warning
 	* Opto/Signal in 
 	* PGD
 	* PGC
 	* MCLR
+* Analog Inputs
+	* None So Far
 * Outputs
 	* SCL (I2C)
 	* SDA (I2C)
