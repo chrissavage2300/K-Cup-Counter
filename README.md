@@ -13,5 +13,5 @@ on top of a 5 gallon home depot bucket.
 
 ## Display Text
 
-*Count:XXXX
-*Low Battery Warning 
+* Count:XXXX
+* Low Battery Warning 
