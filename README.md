@@ -11,6 +11,7 @@ on top of a 5 gallon home depot bucket.
 * Use Opto sensor to sense when a k-cup has entered the bucket
 * Wake on signal. Use sleep mode to save power
 
-##Display Text
+## Display Text
+
 *Count:XXXX
 *Low Battery Warning 
