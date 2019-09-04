@@ -38,5 +38,6 @@ on top of a 5 gallon home depot bucket.
 	* SCL (I2C)
 	* SDA (I2C)
 ## Notes
-* Use TimerX for debouncing
-	* 
+* Opto Sensor may not need debouncing.
+* Slot for K-Cup will be 3D printed
+
