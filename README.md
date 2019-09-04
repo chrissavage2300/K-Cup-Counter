@@ -18,6 +18,7 @@ on top of a 5 gallon home depot bucket.
 
 ## Possible Parts to be used
 * Microcontroller: PIC18F13K22
+* Microcontroller: PIC16F1503
 * Battery Charger: MCP73831T-2ACI/OTCT-ND
 * Low Battery Detect: APX803S-31SA-7DICT-ND
 * Display: SSD1306 (I2C)
