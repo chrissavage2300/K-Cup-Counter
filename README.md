@@ -1,6 +1,6 @@
 # K-Cup-Counter
 
-
+![Idea](/idea.jpg)
 
 This will be a small project to collect data on the number of K-Cups used in the office. It will be mounted
 on top of a 5 gallon home depot bucket. 
