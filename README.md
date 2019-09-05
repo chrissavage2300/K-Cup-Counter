@@ -1,5 +1,7 @@
 # K-Cup-Counter
-! [Idea] (https://raw.githubusercontent.com/chrissavage2300/K-Cup-Counter/master/Untitled_09052019_065451.jpg)
+
+![Idea] (https://raw.githubusercontent.com/chrissavage2300/K-Cup-Counter/master/Untitled_09052019_065451.jpg)
+
 This will be a small project to collect data on the number of K-Cups used in the office. It will be mounted
 on top of a 5 gallon home depot bucket. 
 * Battery Powered-18650 Battery since I have a few of these on hand
